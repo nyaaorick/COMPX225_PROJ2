@@ -1,5 +1,6 @@
--- Remember to use your own database
-use amatenga;
+-- test in MAMP
+-- will be js1160 if in university server
+use kiwi_kloset;
 
 DROP TABLE IF EXISTS customers;
 DROP TABLE IF EXISTS branches;
